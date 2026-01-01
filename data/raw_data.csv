@@ -1,0 +1,11 @@
+date,product,sales
+2023-01-01,ProductA,100
+2023-01-02,ProductA,150
+2023-01-03,ProductA,120
+2023-01-01,ProductB,200
+2023-01-02,ProductB,250
+2023-01-03,ProductB,180
+2023-02-01,ProductA,130
+2023-02-02,ProductA,160
+2023-02-01,ProductB,220
+2023-02-02,ProductB,270
